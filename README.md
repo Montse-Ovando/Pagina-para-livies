@@ -21,4 +21,4 @@ En este proyecto me enfoque en construir una página web sencilla, contiene las 
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 
 ### 4. Vista previa
-![Screen](/Imagenes/Screen_OR.png)
+![Screen](/imagenes/Screen_OR.png)
